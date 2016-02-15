@@ -1,5 +1,4 @@
-Python 2.7.x
-Jupyter notebook
+Jupyter
 Numpy
 Scipy
 Sympy
