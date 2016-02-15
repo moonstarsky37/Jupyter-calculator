@@ -1,5 +1,1 @@
-Jupyter
-Numpy
-Scipy
-Sympy
-Npmath
+pip install mpmath
